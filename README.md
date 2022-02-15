@@ -1,0 +1,1 @@
+This is simple version of keyboard fast typing game https://klavogonki.ru/ for one player.
