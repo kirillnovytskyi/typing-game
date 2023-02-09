@@ -11,6 +11,7 @@ export const PlayField = ({ text, setText }) => {
   let gameInterval = null;
 
   const gameOver = () => {
+    console.log('game is over');
     setInputValue('');
     setCurrentWordId(-1);
     clearInterval(gameInterval);
